@@ -2,8 +2,6 @@
 
 Creating a question-answering model for our CMSC470 project which improves guess accuracy.
 
----
-
 ## Our Plan
 
 1. Generate POS tagging for each questions
@@ -37,3 +35,7 @@ Creating a question-answering model for our CMSC470 project which improves guess
     * BERT
 
     * ...
+
+## Dependencies
+
+Check requirements.txt for the dependencies.
