@@ -2,6 +2,10 @@
 
 Creating a question-answering model for our CMSC470 project which improves guess accuracy.
 
+## Our Team
+
+Abhay Patel, Seyed Ghaemi, Jake Baldwin, Zihan Ma
+
 ## Our Plan
 
 1. Generate POS tagging for each questions
@@ -56,7 +60,10 @@ Creating a question-answering model for our CMSC470 project which improves guess
       
       Accuracy for sentenceBERT:
       ![alt text](https://github.com/CMSC470-Team/Model/blob/main/image/BERT.png?raw=true)
-
+      
+   * NER
+      
+## Future plan
 
 ## Dependencies
 
