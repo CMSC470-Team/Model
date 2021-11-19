@@ -47,9 +47,9 @@ Creating a question-answering model for our CMSC470 project which improves guess
 
    * Guesser
       
-      Instead of using TF-IDF as guesser, we tried to use different embedding techniques to find answer for specific query. We especially want to try sentence embedding, which  represent entire sentences and their semantic information as vectors. Since our model get questions chunk by chunk, we think sentence embedding can save computational power, since we don't need to encode every words and it can also capture the necessary context, intention or other information in the text.
+      Instead of using TF-IDF as the guesser, we tried to use different embedding techniques to find the answer for a specific query. We especially want to try sentence embedding, which represents entire sentences and their semantic information as vectors. Since our model gets questions chunk by chunk, we think sentence embedding can save computational power, since we don't need to encode every word and it can also capture the necessary context, intention, or other information in the text.
       
-      We are currently using the sentenceBERT model ('all-mpnet-base-v2') to encode the sentences. Using the same logistic regression and same features, we found an increase compare to TF-IDF in the testing data.
+      In the bert.py file, we are currently using the sentenceBERT model ('all-mpnet-base-v2') to encode the sentences. Using the same logistic regression and same features, we found an increase compare to TF-IDF in the testing data.
       
       Accuracy for TF-IDF:
       ![alt text](https://github.com/CMSC470-Team/Model/blob/main/image/TF-IDF.jpg?raw=true)
