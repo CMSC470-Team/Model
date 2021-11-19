@@ -52,7 +52,7 @@ Creating a question-answering model for our CMSC470 project which improves guess
       We are currently using the sentenceBERT model ('all-mpnet-base-v2') to encode the sentences. Using the same logistic regression and same features, we found an increase compare to TF-IDF in the testing data.
       
       Accuracy for TF-IDF:
-      ![alt text](https://github.com/CMSC470-Team/Model/blob/main/image/TF-IDF.png?raw=true)
+      ![alt text](https://github.com/CMSC470-Team/Model/blob/main/image/TF-IDF.jpg?raw=true)
       
       Accuracy for sentenceBERT:
       ![alt text](https://github.com/CMSC470-Team/Model/blob/main/image/BERT.png?raw=true)
