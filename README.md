@@ -1,10 +1,8 @@
 # Creative-Model-Name
 
+## Authors: Abhay Patel, Jake Baldwin, Seyed Ghaemi, Zihan Ma 
+
 Creating a question-answering model for our CMSC470 project which improves guess accuracy.
-
-## Our Team
-
-Abhay Patel, Seyed Ghaemi, Jake Baldwin, Zihan Ma
 
 ## Our Plan
 
@@ -48,6 +46,10 @@ Abhay Patel, Seyed Ghaemi, Jake Baldwin, Zihan Ma
     * ...
 
 ## Current progress
+   
+   * NER as Feature
+      
+      We are using NLTK's named entity recognizer. Currently we tried simply adding NE as a feature to the tfidf_guesser with little improvement in accuracy. Our next plan is to find a Python graph library and use that in conjunction with [DELFT's wiki graph](https://github.com/henryzhao5852/DELFT/tree/master/wiki_graph) to calculate a score for the connections between the named entities in the graph. We will then use these scores to find the named entitiy most related to all the named entities in the question.  
 
    * Guesser
       
@@ -60,10 +62,7 @@ Abhay Patel, Seyed Ghaemi, Jake Baldwin, Zihan Ma
       
       Accuracy for sentenceBERT:
       ![alt text](https://github.com/CMSC470-Team/Model/blob/main/image/BERT.png?raw=true)
-      
-   * NER
-      
-## Future plan
+
 
 ## Dependencies
 
