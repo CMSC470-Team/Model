@@ -23,6 +23,13 @@ Creating a question-answering model for our CMSC470 project which improves guess
         * https://github.com/henryzhao5852/DELFT
 
         * https://github.com/henryzhao5852/DELFT/tree/master/wiki_graph
+   
+   * QA-GNN
+   
+        * https://github.com/michiyasunaga/qagnn
+        
+        * https://arxiv.org/abs/2104.06378
+
 
 4. Use 1-3 as features
 
