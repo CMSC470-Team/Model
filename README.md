@@ -62,6 +62,8 @@ Creating a question-answering model for our CMSC470 project which improves guess
       
       Accuracy for sentenceBERT:
       ![alt text](https://github.com/CMSC470-Team/Model/blob/main/image/BERT.png?raw=true)
+      
+      Our next plan is to fine tuning the pretrained sentenceBERT model with our QANTA dataset for better guesser accuracy.
 
 
 ## Dependencies
