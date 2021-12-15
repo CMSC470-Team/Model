@@ -1,4 +1,0 @@
-nltk
-sentence_transformers
-sklearn
-torch
