@@ -65,6 +65,7 @@ Creating a question-answering model for our CMSC470 project which improves guess
       
       Fine tunned sentenceBERT model and required file
       https://drive.google.com/file/d/1ucp4FnZdnxj820JH_-ootlSm1Fv1A1BK/view?usp=sharing (unzip it)
+      
       https://drive.google.com/file/d/1Xstdah7kYt7F14gqKEcgxl6xVE8ibRFJ/view?usp=sharing
 
 ## Dependencies
