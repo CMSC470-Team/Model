@@ -54,7 +54,8 @@ Using sentenceBERT rather than Word2Vec to create encodings was another good ide
 
 ---
 ## Who did what?
-
+* Tested Universal Encoder 
+    * Jake Baldwin
 * sentenceBERT
   * Zihan Ma, Jake Baldwin
 * Named Entity Recognition
