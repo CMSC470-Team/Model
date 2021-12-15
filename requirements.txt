@@ -1,0 +1,14 @@
+huggingface-hub
+numpy
+Pillow
+regex
+requests
+scikit-learn
+scipy
+sentence_transformers
+sentencepiece
+tokenizers
+torch
+torchaudio
+torchvision
+transformers
