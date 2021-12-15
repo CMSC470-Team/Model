@@ -64,7 +64,7 @@ Using sentenceBERT rather than Word2Vec to create encodings was another good ide
 * Combining NER and Knowledge Graph into sentenceBERT
   * Zihan Ma
 * Packaging model into the QuizBowlModel
-  * Jake Baldwin
+  * Zihan Ma, Jake Baldwin
 * Writeup
   * Zihan Ma, Jake Baldwin, Abhay Patel, Seyed Ghaemi
 * Presentation
