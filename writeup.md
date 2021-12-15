@@ -55,7 +55,7 @@ However, for the logistic regression buzzer, the TF-IDF baseline has an accuracy
 
 Therefore, we think our method works, since it gets better results than the default sentence Bert model and the TF-IDF baseline.
 
-When we changed to the full QANTA training set, because of the limit of computational power, we only compared the fine tunned model with the TF-IDF baseline, we saw a decrease of incorrect guesses (From 440 to 430). Thus, the improvement of our methods on the full QANTA dataset is not as good as on the small training dataset. And we think that is one of the future works to better design that formula and adjust weights associated with the score.
+When we changed to the full QANTA training set, because of the limit of computational power, we only compared the fine tunned model with the TF-IDF baseline, we saw a decrease of incorrect guesses (From 440 to 383). Thus, there are also improvements on the full QANTA training set, even though, it does not have as much improvement as on the smaller dataset. We think that is one of the future works to better design that formula and adjust weights associated with the score.
 
 ---
 ## Who did what?
